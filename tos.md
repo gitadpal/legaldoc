@@ -5,8 +5,6 @@ effective_date: December 15, 2025
 last_updated: December 15, 2025
 ---
 
-**Last Updated: 12/15/2025**
-
 ## 1. Introduction and Acceptance of Terms
 
 ### 1.1 Agreement
