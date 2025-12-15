@@ -5,8 +5,6 @@ effective_date: December 15, 2025
 last_updated: December 15, 2025
 ---
 
-**Last Updated: 12/15/2025**
-
 ## 1. Introduction
 
 AdPal Lab ("Company," "we," "us," or "our") operates the AdPal mobile application (the "App"), a permissionless application that enables users to cast images to e-ink phone case displays and, optionally, participate in advertising reward programs. This Privacy Policy describes our practices regarding the collection, use, disclosure, and protection of information in connection with your use of the App.
