@@ -301,7 +301,7 @@ These Terms and any dispute arising out of or relating to these Terms or your us
 
 ### 15.2 Informal Resolution
 
-Before initiating any formal dispute resolution proceeding, you agree to first contact the Company at [Email] and attempt to resolve the dispute informally. The Company will attempt to resolve the dispute by contacting you via email or other available means. If the dispute is not resolved within thirty (30) days of submission, either party may proceed to formal dispute resolution.
+Before initiating any formal dispute resolution proceeding, you agree to first contact the Company at legal@adpal.xyz and attempt to resolve the dispute informally. The Company will attempt to resolve the dispute by contacting you via email or other available means. If the dispute is not resolved within thirty (30) days of submission, either party may proceed to formal dispute resolution.
 
 ### 15.3 Arbitration Agreement
 
