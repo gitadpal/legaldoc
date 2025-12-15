@@ -113,8 +113,10 @@
             justify-content: center;
         }
 
-        .logo-icon svg {
+        .logo-icon img {
             animation: liquidHue 5s linear infinite;
+            width: 36px;
+            height: 36px;
         }
         
         @keyframes liquidHue {
@@ -124,11 +126,6 @@
             100% {
                 filter: hue-rotate(360deg);
             }
-        }
-        
-        /* Base gradient for the hue to rotate through */
-        .logo-icon svg {
-            stroke: url(#baseGrad);
         }
 
         .nav {
@@ -396,7 +393,7 @@
         <div class="header-inner">
             <a href="/" class="logo">
                 <span class="logo-icon">
-                    <img src="{{ '/logo.png' | relative_url }}" alt="AdPal Logo">
+                    <img src="{{ '/thelogo.png' | relative_url }}" alt="AdPal Logo">
                 </span>
                 {{ site.title }}
             </a>
