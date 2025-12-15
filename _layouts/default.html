@@ -383,8 +383,17 @@
         <div class="header-inner">
             <a href="/" class="logo">
                 <span class="logo-icon">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <!-- "A" shape -->
+                        <path d="M3 20L9 4L15 20"></path>
+                        <line x1="5.5" y1="14" x2="12.5" y2="14"></line>
+                        <!-- "P" integrated -->
+                        <path d="M15 20V4h4a4 4 0 010 8h-4"></path>
+                        <!-- Pixel blocks (eInk/digital feel) -->
+                        <rect x="7" y="8" width="2" height="2" fill="currentColor" opacity="0.3" stroke="none"></rect>
+                        <rect x="9" y="10" width="2" height="2" fill="currentColor" opacity="0.2" stroke="none"></rect>
+                        <!-- Small token accent -->
+                        <circle cx="21" cy="18" r="2" fill="currentColor" opacity="0.2"></circle>
                     </svg>
                 </span>
                 {{ site.title }}
