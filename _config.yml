@@ -1,5 +1,15 @@
-remote_theme: jekyll/minima@1e8a445
+title: AdPal Labs
+description: Legal Documents
+markdown: kramdown
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Legal Documents
-description: Terms of Service and Privacy Policy
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
