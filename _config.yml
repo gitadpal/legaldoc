@@ -16,7 +16,3 @@ defaults:
       path: ""
     values:
       layout: default
-  - scope:
-      path: ".well-known/apple-app-site-association"
-    values:
-      content_type: "application/json"
