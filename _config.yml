@@ -8,8 +8,15 @@ relative_links:
   enabled: true
   collections: true
 
+include:
+  - .well-known
+
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+  - scope:
+      path: ".well-known/apple-app-site-association"
+    values:
+      content_type: "application/json"
