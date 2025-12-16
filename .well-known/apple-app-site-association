@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ 
+                    "78KU4HT8H8.io.xa.sigad" 
+                ],
+                "paths": [ 
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
